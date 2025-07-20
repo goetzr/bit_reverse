@@ -1,0 +1,11 @@
+[package]
+name = "bit_reverse_010"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bit_reverse = { path = "../bit_reverse" }
+
+[lib]
+name = "bit_reverse"
+crate-type = ["cdylib"]

@@ -1,0 +1,3 @@
+[workspace]
+members = ["bit_reverse", "bit_reverse_010"]
+resolver = "3"
